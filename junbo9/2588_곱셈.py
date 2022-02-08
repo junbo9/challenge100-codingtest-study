@@ -8,3 +8,4 @@ AxB0 = A * int(B[0])
 AxB = A * int(B)
 
 print(AxB2, AxB1, AxB0, AxB, sep='\n')
+ 
